@@ -41,18 +41,6 @@ That's it. Your service is created automatically on first signal. No setup, no m
 
 **Auto-discovery** — Services are created automatically on first signal. No manual setup needed.
 
----
-
-## Repositories
-
-| Repo | Description |
-|------|-------------|
-| [sentinel-app-io/backend](https://github.com/sentinel-app-io/backend) | FastAPI backend — signal ingestion, alerts, API |
-| [sentinel-app-io/sentinel-k8s-operator](https://github.com/sentinel-app-io/sentinel-k8s-operator) | Kubernetes operator — watches workloads, sends health signals |
-| [sentinel-app-io/website](https://github.com/sentinel-app-io/website) | Marketing site — [sentinel-app.io](https://sentinel-app.io) |
-
----
-
 ## Kubernetes operator
 
 One operator per cluster. No sidecars. No per-pod overhead.
