@@ -9,7 +9,7 @@
   <br/>
   <a href="https://sentinel-app.io">Website</a> ·
   <a href="https://app.sentinel-app.io">App</a> ·
-  <a href="https://sentinel-app.io/docs">Docs</a>
+  <a href="https://app.sentinel-app.io/docs">Docs</a>
 </div>
 
 ---
