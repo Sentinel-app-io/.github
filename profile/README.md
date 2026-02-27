@@ -101,5 +101,5 @@ See the [full documentation](https://sentinel-app.io/docs) for examples in JavaS
 ---
 
 <div align="center">
-  <a href="https://app.sentinel-app.io">Get started free</a> · <a href="[https://sentinel-app.io#pricing](https://sentinel-app.io/pricing/)">View pricing</a>
+  <a href="https://app.sentinel-app.io">Get started free</a>
 </div>
