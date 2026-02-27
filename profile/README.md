@@ -96,7 +96,7 @@ http.DefaultClient.Do(req)
 </tr>
 </table>
 
-See the [full documentation](https://sentinel-app.io/docs) for examples in JavaScript, Rust, Ruby, and more.
+See the [full documentation](https://app.sentinel-app.io/docs) for examples in JavaScript, Rust, Ruby, and more.
 
 ---
 
