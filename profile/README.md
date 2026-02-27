@@ -59,7 +59,7 @@ metadata:
 kubectl apply -f https://raw.githubusercontent.com/sentinel-app-io/sentinel-k8s-operator/main/manifests/install.yaml
 ```
 
-→ [sentinel-app-io/sentinel-k8s-operator](https://github.com/sentinel-app-io/sentinel-k8s-operator)
+→ [sentinel-app-io/sentinel-k8s-operator](https://github.com/sentinel-app-io/k8s-operator)
 
 ---
 
